@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 master add code
+=======
+dev add code
+>>>>>>> dev
